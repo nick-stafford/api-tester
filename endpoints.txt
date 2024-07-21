@@ -1,0 +1,14 @@
+# APIs to test
+
+## Public
+- https://api.github.com
+- https://jsonplaceholder.typicode.com
+- https://httpbin.org
+
+## Work
+- salesforce sandbox
+- internal api gateway
+
+## Notes
+- need to add rate limiting
+- should cache responses
